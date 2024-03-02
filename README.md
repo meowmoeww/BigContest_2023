@@ -1,4 +1,4 @@
-# BigContest_2023# Environmental-Data-Analysis-Contest
+# BigContest_2023
 
 ### 🌍 Team Member 
 |Nakyeong Koh<br/>([@meowmoeww](https://github.com/meowmoeww))|Yujin Son <br/>([@Beyujinllike](https://github.com/Beyujinllike))|Hyo-eun Kang <br/>|eunho Kim <br/>|
